@@ -4,7 +4,7 @@
 
 ```powershell
 scoop bucket add zhao https://github.com/allenhori/zhao-scoop
-scoop install zhao
+scoop install zhao-cli
 ```
 
-Update with `scoop update zhao`. `bucket/zhao.json` is generated and pushed automatically by zhao-cli's release workflow on every stable release; don't edit it by hand.
+Update with `scoop update zhao-cli`. `bucket/zhao-cli.json` is generated and pushed automatically by zhao-cli's release workflow on every stable release; don't edit it by hand.
