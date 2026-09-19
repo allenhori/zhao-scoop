@@ -1,12 +1,12 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "description": "Deterministic, offline change-review and CI gate for data transformation projects.",
     "homepage": "https://github.com/allenhori/zhao-cli",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/allenhori/zhao-cli/releases/download/v0.5.2/zhao-x86_64-pc-windows-msvc.zip",
-            "hash": "516b2421e0aa785c91cb7dd885fd1349b2bedc1be680f6de1dc63c30db6e0e1f"
+            "url": "https://github.com/allenhori/zhao-cli/releases/download/v0.5.3/zhao-x86_64-pc-windows-msvc.zip",
+            "hash": "a6c441f537c9e76845f670313d9b17d83b2a73bb802e9eacfde1d75fb147c446"
         }
     },
     "bin": "zhao.exe"
